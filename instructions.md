@@ -11,3 +11,8 @@
 ![Картинка не открылась](https://artsdot.com/ADC/Art-ImgScreen-4.nsf/O/A-9H5R2C/$FILE/Wassily-kandinsky-transverse-line.Jpg)
 
 [Geek Brains](https://gb.ru/education_new)
+
+```python
+a = 45
+print(a)
+```
